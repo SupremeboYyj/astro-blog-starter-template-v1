@@ -38,7 +38,7 @@ body {
   background-color:black;
   word-wrap: break-word;
   overflow-wrap: break-word;
-  color: color: rgb(var(--gray-dark));;
+  color:rgb(var(--gray-dark));;
   font-size: 20px;
   line-height: 1.7;
 }
