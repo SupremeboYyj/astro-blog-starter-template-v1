@@ -38,8 +38,8 @@ body {
   background-color:black;
   word-wrap: break-word;
   overflow-wrap: break-word;
-  color: white;
-  font-size: 19px;
+  color: color: rgb(var(--gray-dark));;
+  font-size: 20px;
   line-height: 1.7;
 }
 main {
@@ -60,6 +60,7 @@ h6 {
 }
 h1 {
   font-size: 3.052em;
+  color:white;
 }
 h2 {
   font-size: 2.441em;
